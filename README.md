@@ -5,7 +5,9 @@
 - 각자 문제 풀고 자기 이름의 폴더에 풀이 올리기
 - 과제 commit시 commit msg로 꼭 작성날짜 입력해주기
 
-  - ex) '2023-03-01 숫자 변환하기'
+  - ex) '2023-03-01 점프와 순간이동'
+- 하단 문제 뒤에 `아바타 이미지`로 표시하기 <img src="./img/yht0827.png" height = "30" width="30">
+
 
 - 문제출제순서(2일단위 카톡 알림)
   - 제출 순서: `yht0827 -> `
@@ -30,7 +32,8 @@
 <summary>3월</summary>
 
 ## 3.1
-- [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)
-- [구명 보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
+- [점프와 순간이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980) <img src="./img/yht0827.png" height = "30" width="30">
+- [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952) 
+
 
 </details>
